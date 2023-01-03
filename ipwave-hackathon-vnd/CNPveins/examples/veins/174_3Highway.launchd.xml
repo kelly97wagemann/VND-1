@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<!-- debug config -->
+<launch>
+	<copy file="174_3Highway.net.xml" />
+	<copy file="174_3Highway.rou.xml" />
+	<copy file="174_3Highway.sumocfg" type="config" />
+</launch>
